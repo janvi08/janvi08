@@ -19,8 +19,8 @@ I am a Computer Engineer from India.
 <br>
 <h3>Expertise</h3>
 <br>
-<img align="left" alt="data analytics" src="https://img.shields.io/badge/Data%20analytics-blue?style=for-the-badge&logo=appveyor&logoColor=blue" />
-<img align="left" alt="python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=appveyor&logoColor=gray" />
+<img align="left" alt="data analytics" src="https://img.shields.io/badge/Data%20analytics-blue?style=for-the-badge&logo=appveyor&logoColor=yellow" />
+<img align="left" alt="python" src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=yellow" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /> 
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
