@@ -20,7 +20,7 @@ I am a Computer Engineer from India.
 <h3>Expertise</h3>
 <p>
 <img align="left" alt="data analytics" src="https://img.shields.io/badge/Data%20analytics-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img align="left" alt="python" src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="ml" src="https://img.shields.io/badge/Machine%20Learning-%23F2F2F2?style=for-the-badge&logo=tensorflow&logoColor=%23#FF6F00" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /> 
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></p>
