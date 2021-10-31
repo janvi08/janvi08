@@ -3,8 +3,6 @@ I am a Computer Engineer from India.
 - 🔭 Working on multiple Data analytics projects
 - 🌱 Website development
 - ☁️ AWS developer
-<br>
-<br>
 <h3>My Projects</h3>
 <a href="https://github.com/janvi08/ANN"><h4 style="color:blue;"><u>Distracted Driver Detection</u></h4></a>
 <p>In this project, I have created a system to detect if a driver is distracted or not using VGG16 model.</p>
@@ -25,7 +23,5 @@ I am a Computer Engineer from India.
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></p>
 <br>
-<br>
-
 <h3> Connect with me </h4>
 <a href="https://www.linkedin.com/in/janvi-phadtare-793431130/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
