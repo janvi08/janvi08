@@ -13,14 +13,14 @@ I am a Computer Engineer from India.
 <a href="https://github.com/janvi08/ANN"><h4 style="color:blue;"><u>Tumor Classification</u></h4></a>
 <p>Using Artificial Neural Networks, a model for classificaton of tumors.It uses activation functions: relu and sigmoid. Model: Sequential Early stopping and callbacks has been used to avoid unnecessary training iterations.</p>
 <a href="https://github.com/janvi08/Linear-Regression---beer-consumption/blob/master/beer_consumption.py"><h4 style="color:blue;"><u>Linear Regression</u></h4></a>
-<pA linear regression model that predicts the beer consumption in Sao Paolo on a given day. It takes into account the factors like temperature and precipitation.</p>
+<p> linear regression model that predicts the beer consumption in Sao Paolo on a given day. It takes into account the factors like temperature and precipitation.</p>
 <a href="https://github.com/janvi08/Restaurant-Menu-Ordering-system"><h4 style="color:blue;"><u>Restaurant Management</u></h4></a>
 <p>An app to view menus and order food. The menu has detailed description of the food items along with their pictures.</p>
 <br>
 <h3>Expertise</h3>
 <br>
-<img align="left" alt="data analytics" src="https://img.shields.io/badge/Data%20analytics-blue?style=for-the-badge&logo=appveyor&logoColor=yellow" />
-<img align="left" alt="python" src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=yellow" />
+<img align="left" alt="data analytics" src="https://img.shields.io/badge/Data%20analytics-blue?style=for-the-badge&logo=data&logo" />
+<img align="left" alt="python" src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logo" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /> 
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
