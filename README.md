@@ -3,14 +3,14 @@ I am a Computer Engineer from India.
 - 🔭 Working on multiple Data analytics projects
 - 🌱 Website development
 - ☁️ AWS developer
-🚗<h3>My Projects</h3>
-<a href="https://github.com/janvi08/ANN"><h4 style="color:blue;"><u>Distracted Driver Detection</u></h4></a>
+<h3>My Projects</h3>
+<a href="https://github.com/janvi08/ANN"><h4 style="color:blue;">🚗<u>Distracted Driver Detection</u></h4></a>
 <p>In this project, I have created a system to detect if a driver is distracted or not using VGG16 model.</p>
-⭐<a href="https://github.com/janvi08/Reviews-classification-NLP-"><h4 style="color:blue;"><u>Yelp review classifier</u></h4></a>
+<a href="https://github.com/janvi08/Reviews-classification-NLP-"><h4 style="color:blue;">⭐<u>Yelp review classifier</u></h4></a>
 <p>Yelp reviews are classified into 1 star review or 5 star review based on the content of the text. This is implemented using MultinomialNB. The same is later implemented using TF-IDF.</p>
-🔬<a href="https://github.com/janvi08/ANN"><h4 style="color:blue;"><u>Tumor Classification</u></h4></a>
+<a href="https://github.com/janvi08/ANN"><h4 style="color:blue;">🔬<u>Tumor Classification</u></h4></a>
 <p>Using Artificial Neural Networks, a model for classificaton of tumors.It uses activation functions: relu and sigmoid. Model: Sequential Early stopping and callbacks has been used to avoid unnecessary training iterations.</p>
-📈<a href="https://github.com/janvi08/Linear-Regression---beer-consumption/blob/master/beer_consumption.py"><h4 style="color:blue;"><u>Linear Regression</u></h4></a>
+<a href="https://github.com/janvi08/Linear-Regression---beer-consumption/blob/master/beer_consumption.py"><h4 style="color:blue;">📈<u>Linear Regression</u></h4></a>
 <p> linear regression model that predicts the beer consumption in Sao Paolo on a given day. It takes into account the factors like temperature and precipitation.</p>
 <a href="https://github.com/janvi08/Restaurant-Menu-Ordering-system"><h4 style="color:blue;">🍕<u>Restaurant Management</u></h4></a>
 <p>An app to view menus and order food. The menu has detailed description of the food items along with their pictures.</p>
