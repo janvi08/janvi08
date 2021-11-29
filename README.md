@@ -7,7 +7,7 @@ I am a Computer Engineer from India.
 🚗<u>Distracted Driver Detection</u></h4>
 <p>In this project, I have created a system to detect if a driver is distracted or not using VGG16 model.</p>
 ⭐<u>Yelp review classifier</u></h4>
-<p>Yelp reviews are classified into 1 star review or 5 star review based on the content of the text. This is implemented using MultinomialNB. The same is later implemented using TF-IDF.</p>
+<p>Yelp reviews are classified into 1 star review or 5 star review based on the content of the text. This is implemented using MultinomialNB. The same is later implemented using TF-IDF.</p><a href="https://github.com/janvi08/Reviews-classification-NLP-">Code</a>
 🔬<u>Tumor Classification</u></h4>
 <p>Using Artificial Neural Networks, a model for classificaton of tumors.It uses activation functions: relu and sigmoid. Model: Sequential Early stopping and callbacks has been used to avoid unnecessary training iterations.</p>
 📈<u>Linear Regression</u></h4>
