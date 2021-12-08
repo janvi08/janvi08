@@ -8,9 +8,9 @@ I am a Computer Engineer from India.
 <p>In this project, I have created a system to detect if a driver is distracted or not using VGG16 model.</p>
 <h4>⭐<a href="https://github.com/janvi08/Reviews-classification-NLP-">Yelp review classifier</a></h4>
 <p>Yelp reviews are classified into 1 star review or 5 star review based on the content of the text. This is implemented using MultinomialNB. The same is later implemented using TF-IDF.<p>
-<h4>🔬<a href="https://github.com/janvi08/Linear-Regression---beer-consumption">Tumor Classification</a></h4>
+<h4>🔬<a href="https://github.com/janvi08/ANN">Tumor Classification</a></h4>
 <p>Using Artificial Neural Networks, a model for classificaton of tumors.It uses activation functions: relu and sigmoid. Model: Sequential Early stopping and callbacks has been used to avoid unnecessary training iterations.</p>
-<h4>📈<a href="https://github.com/janvi08/Reviews-classification-NLP-">Linear Regression</a></h4>
+<h4>📈<a href="https://github.com/janvi08/Linear-Regression---beer-consumption">Linear Regression</a></h4>
 <p> linear regression model that predicts the beer consumption in Sao Paolo on a given day. It takes into account the factors like temperature and precipitation.</p>
 <h4>🍕<a href="https://github.com/janvi08/Restaurant-Menu-Ordering-system">Restaurant Management</a></h4>
 <p>An app to view menus and order food. The menu has detailed description of the food items along with their pictures.</p>
